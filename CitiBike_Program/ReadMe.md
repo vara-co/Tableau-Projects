@@ -1,1 +1,1 @@
-Info on this project
+This is a work-in-progress Tableau story on the CitiBike Program in NY. If you want to see the results, come back in a few days, when the project is uploaded to tableau and you can access it through here.
